@@ -24,7 +24,7 @@ The portfolio documents multiple Azure administrator labs covering identity, acc
 
 The full PDF portfolio includes objectives, implementation steps, screenshots, evidence of completion, and lessons learned for each lab.
 
-📄 **PDF:** `azure-administrator-hands-on-lab-portfolio-az104.pdf`
+📄 **PDF:** [View AZ-104 Hands-On Lab Portfolio](./azure-administrator-hands-on-lab-portfolio-az104.pdf)
 
 ## Skills Demonstrated
 
