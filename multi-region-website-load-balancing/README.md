@@ -31,7 +31,7 @@ Oct 2025 – Oct 2025
 ## Demo and Topology
 
 * **Demo:** https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F3AA4229D1E8931C9%21sd1a7d91e0a9d482b8a3d9b29e0eba2d8%3Fithint%3Dvideo%26migratedtospo%3Dtrue&cid=3AA4229D1E8931C9&id=3AA4229D1E8931C9%21sd1a7d91e0a9d482b8a3d9b29e0eba2d8&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy8zYWE0MjI5ZDFlODkzMWM5L0lRQWUyYWZSblFvclNJbzlteW5nNjZMWUFZV29mcFJVekRJWWJKdW5jcUtXM1RB&v=photos 
-* **Topology:** 
+* **Topology:** [here](./topology.png)
 
 ## Skills Demonstrated
 
