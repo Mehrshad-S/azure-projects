@@ -26,6 +26,18 @@ The full PDF portfolio includes objectives, implementation steps, screenshots, e
 
 📄 **PDF:** [View AZ-104 Hands-On Lab Portfolio](./azure-administrator-hands-on-lab-portfolio-az104.pdf)
 
+## ARM Templates
+
+This folder includes the ARM template files used in selected AZ-104 labs.
+
+| File | Purpose |
+|---|---|
+| [proj3-template.json](./templates/proj3-template.json) | Managed disk deployment template used for ARM template practice. |
+| [proj4-template.json](./templates/proj4-template.json) | Virtual network and subnet deployment template for ManufacturingVnet. |
+| [proj6-vms-template.json](./templates/proj6-vms-template.json) | VM, VNet, NSG, and IIS deployment template used for load balancing and Application Gateway labs. |
+| [proj10-vms-edge-template.json](./templates/proj10-vms-edge-template.json) | VM infrastructure template used for backup and data protection lab work. |
+| [proj11-vm-template.json](./templates/proj11-vm-template.json) | VM infrastructure template used for Azure Monitor and alerting lab work. |
+
 ## Skills Demonstrated
 
 - Azure administration
